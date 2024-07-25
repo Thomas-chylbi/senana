@@ -27,12 +27,12 @@ let handler = async (m, {
         mentions: conn.parseMention(caption)
     } : {})
     } catch (e) {
-        await m.reply('ops .. error ')
+        await m.reply('> *هنالك خطأ 💁🏻*')
     }
 }
 handler.help = ["translate"]
 handler.tags = ["tools"]
-handler.command = /^tr|translate$/i
+handler.command = /^tr|translate|ترجم$/i
 export default handler
 
 async function langList() {
