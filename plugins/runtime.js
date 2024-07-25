@@ -15,9 +15,9 @@ let handler = async (m, { conn, args, command }) => {
 m.reply(`*Bot Uptime*\n${muptime}`)
 
 }
-handler.help = ['runtime']
+handler.help = ['runtime','تحديث']
 handler.tags = ['infobot']
-handler.command = ['runtime']
+handler.command = ['runtime','تحديث']
 
 export default handler
 
