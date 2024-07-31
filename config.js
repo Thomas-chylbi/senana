@@ -10,13 +10,13 @@ global.setting = {
 
 global.owner = [
 ['212710725533', 'SASUKE TECH', true],
-['212605855031', 'imillie', false],
-['212605855031', '8bal', false]
+['212773327420', 'imillie', false],
+['212773327420', '8bal', false]
 ]
 
 global.info = {
- nomerbot: '212605855031',
- pairingNumber: '212605855031',
+ nomerbot: '212773327420',
+ pairingNumber: '212773327420',
  nameown: 'SASUKE TECH',
  nomerown: '212710725533',
  packname: 'SASUKE TECH',
