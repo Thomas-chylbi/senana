@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 *「 معلومات عن صاحب البوت 」*
 
 *Owner bot:*\nwa.me/212710725533
-*My number bot:*\nwa.me/212773327420
+*My number bot:*\nwa.me/212633378152
 
 *My group:* https://chat.whatsapp.com/H7iwUtSGtFZI8q0Xf4tbpz
 
